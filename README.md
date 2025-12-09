@@ -8,9 +8,9 @@
 + embedding model: MiniLM
 -----------------------------------
 ## Version
-+transformer version: 4.57.2
++ transformer version: 4.57.2
 
-+tokenizers version: -.22.1
++ tokenizers version: -.22.1
 
 + huggingface_hub version: 0.36.0
 ----------------------------------
