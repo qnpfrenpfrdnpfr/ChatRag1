@@ -1,4 +1,4 @@
-##RAG & Ollama
+## RAG & Ollama
 -------------------------------------------
 ## RAG
 +dataset: rag_dataset_1200_binarized
