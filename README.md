@@ -1,11 +1,11 @@
 ## RAG & Ollama
 -------------------------------------------
 ## RAG
-+dataset: rag_dataset_1200_binarized
++ dataset: rag_dataset_1200_binarized
 
-+data-chunk: fixed-size chunk + sliding_window
++ data-chunk: fixed-size chunk + sliding_window
 
-+embedding model: MiniLM
++ embedding model: MiniLM
 -----------------------------------
 ## Version
 +transformer version: 4.57.2
@@ -15,8 +15,8 @@
 + huggingface_hub version: 0.36.0
 ----------------------------------
 ## Vector DB
-+FAISS 벡터 DB 생성
++ FAISS 벡터 DB 생성
 
 -----------------------------------
 ## Olama model
-+qwen3:4b
++ qwen3:4b
